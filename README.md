@@ -1,19 +1,21 @@
 # javascript_checkpoint3_b1
  Checkpoint 3 (Bimestre 1) - Programação Imperativa - Certified Tech Developer (Digital House).
+ 
+ **Instituição:** Digital House
+ 
+ **Formação:** Certified Tech Developer (Full Stack)
+ 
+ **Bimestre:** 1
 
 <img src="https://media3.giphy.com/media/qUt4xeREPBTEdteWKw/giphy.gif" width="200" style="max-width: 100%;">
 
 **Linguagem:** Javascript (Vanilla)
 
-**Formação:** Certified Tech Developer (Full Stack)
-
-**Instituição:** Digital House
-
-**Bimestre:** 1
-
 **Disciplina:** Programação Imperativa
 
 **Professor:** Lucas Feitosa
+
+**Acesso completo à resolução:** https://github.com/rllimaferreira/javascript_checkpoint3_b1/blob/main/script.js
 
 ```3 ͦ  Checkpoint de Programação Imperativa!
 
@@ -39,5 +41,4 @@ Crie o método que permite adicionar alunos à lista do curso, ou seja, quando c
 Crie um método para o objeto curso que receba um aluno (como parâmetro) e retorne true se ele aprovou no curso ou false em caso de reprovação. Para ser aprovado, o aluno tem que ter uma média igual ou acima da nota de aprovação  e ter menos faltas que faltas máximas. Se tiver a mesma quantidade, tem que estar 10% acima da nota de aprovação.
 
 - Passo 6 (2 pontos): 
-Crie um método para o objeto curso que percorra a lista de estudantes e retorne um array de booleanos com os resultados se os alunos aprovaram ou não. 
-
+Crie um método para o objeto curso que percorra a lista de estudantes e retorne um array de booleanos com os resultados se os alunos aprovaram ou não.```
