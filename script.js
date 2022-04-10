@@ -15,8 +15,7 @@ function Aluno(nome, faltas, notas) {
   this.nome = nome;
   this.faltas = faltas;
   this.notas = notas;
-
-  // Passo 2:
+  
   this.calcularMedia = function () {
     let soma = 0;
     for (let i = 0; i < this.notas.length; i++) {
